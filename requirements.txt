@@ -1,0 +1,14 @@
+streamlit>=1.50.0
+streamlit-image-coordinates>=0.4.0
+tensorflow>=2.15.0
+diffusers>=0.30.0
+transformers>=4.40.0
+accelerate>=0.30.0
+peft>=0.10.0
+safetensors>=0.4.0
+torch>=2.2.0
+Pillow>=10.0.0
+numpy>=1.24.0
+opencv-python>=4.8.0
+scikit-image>=0.22.0
+lpips>=0.1.4

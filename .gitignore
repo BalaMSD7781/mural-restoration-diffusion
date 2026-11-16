@@ -1,0 +1,15 @@
+# Environments
+.venv/
+venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Runtime data (created by config.py)
+data/
+
+# Large model weights - see README for how to obtain
+models/*.keras
+models/thresholds.json
+
+smoke_*.png
